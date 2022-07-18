@@ -1,7 +1,7 @@
 # FFglitch-0.9.3-executables
 Download links for FFglitch version 0.9.3
 
-I am not the owner of FFglitch, this page is just contains the download links for ffglitch version 0.9.3 taken from [ffglitch.org](https://ffglitch.org/).
+I am not the owner of FFglitch, this page just contains the download links for ffglitch version 0.9.3 taken from [ffglitch.org](https://ffglitch.org/).
 
 Original download links:
 
