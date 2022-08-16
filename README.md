@@ -16,9 +16,9 @@ https://ffglitch.org/pub/bin/mac64/ffglitch-0.9.3-mac64.7z
 
 These version were not available in the [download page](https://ffglitch.org/download/) of ffglitch directly, so I created the zip file for those and uploaded them here.
 
-All credit goes to [Ramiro Polla](https://github.com/ramiropolla) for creating FFglitch.
+All credits goes to [Ramiro Polla](https://github.com/ramiropolla) for creating FFglitch.
 
-For more details, visit this repo:
+For the source code, visit this repo:
 https://github.com/ramiropolla/ffglitch-core
 
 Peace :)
